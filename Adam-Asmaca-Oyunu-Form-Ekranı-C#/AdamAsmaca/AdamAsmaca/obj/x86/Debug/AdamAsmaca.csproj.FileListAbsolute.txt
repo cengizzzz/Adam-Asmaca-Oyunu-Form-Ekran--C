@@ -1,0 +1,20 @@
+c:\users\cesar\documents\visual studio 2010\Projects\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+c:\users\cesar\documents\visual studio 2010\Projects\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+c:\users\cesar\documents\visual studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form1.resources
+c:\users\cesar\documents\visual studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Properties.Resources.resources
+c:\users\cesar\documents\visual studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csproj.GenerateResource.Cache
+c:\users\cesar\documents\visual studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.exe
+c:\users\cesar\documents\visual studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.pdb
+C:\Users\Cesar\Documents\Visual Studio 2010\Projects\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csprojResolveAssemblyReference.cache
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.exe
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.pdb
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.pdb
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csprojResolveAssemblyReference.cache
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form1.resources
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Properties.Resources.resources
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.csproj.GenerateResource.Cache
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form2.resources
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\bin\Debug\AdamAsmaca.exe.config
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form3.resources
+C:\Users\Kartal Yuvası\Desktop\AdamAsmacaProject\AdamAsmaca\AdamAsmaca\obj\x86\Debug\AdamAsmaca.Form4.resources
